@@ -1,0 +1,5 @@
+<!-- STM32 placeholder -->
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
+  <rect x="2" y="2" width="20" height="20" rx="3" fill="#0f1724"/>
+  <text x="12" y="15" font-family="monospace" font-size="8" fill="#6EE7B7" text-anchor="middle">STM32</text>
+</svg>

@@ -1,0 +1,7 @@
+<!-- Embedded board placeholder -->
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 24 24">
+  <rect x="2" y="6" width="20" height="12" rx="2" fill="#0f1724"/>
+  <circle cx="8" cy="12" r="1.6" fill="#F97316" />
+  <circle cx="12" cy="12" r="1.6" fill="#F97316" />
+  <circle cx="16" cy="12" r="1.6" fill="#F97316" />
+</svg>
