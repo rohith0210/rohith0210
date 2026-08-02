@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <circle cx="14" cy="14" r="12" fill="#0b1220" stroke="#1f3bff" stroke-width="1.5" />
+  <text x="50%" y="54%" text-anchor="middle" fill="#cfe8ff" font-size="10" font-family="Fira Code,monospace">R</text>
+</svg>

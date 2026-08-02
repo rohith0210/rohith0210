@@ -1,3 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="36" viewBox="0 0 880 36">
+  <defs>
+    <linearGradient id="dgrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#071227" />
+      <stop offset="100%" stop-color="#0f2a48" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" rx="6" fill="url(#dgrad)" />
+  <circle cx="28" cy="18" r="4" fill="#58A6FF" />
+  <rect x="40" y="14" width="780" height="8" rx="4" fill="#0b1630" />
+</svg>
 <!-- Simple divider wave -->
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 40" preserveAspectRatio="none" height="40">
   <path d="M0,20 C150,40 350,0 600,20 C850,40 1050,0 1200,20 L1200,40 L0,40 Z" fill="#071026"/>

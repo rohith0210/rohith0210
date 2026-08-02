@@ -1,5 +1,72 @@
 # Rohith Chidurala — Embedded Linux Engineer (rohith0210)
 
+<p align="center">
+  <img src="./assets/hero.svg" alt="hero" width="880" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=%24+whoami;Rohith+Chidurala;Embedded+Linux+Engineer;Linux+Kernel+%E2%80%A2+Device+Drivers" />
+</p>
+
+---
+
+## About
+
+I build low-level software for embedded systems: kernel modules, device drivers, and firmware. Focused on STM32, Buildroot, Yocto, and contributing to the Linux kernel.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohith0210&show_icons=true&theme=tokyonight" width="360" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith0210&layout=compact&theme=tokyonight" width="360" />
+</p>
+
+---
+
+## Engineering Dashboard
+
+- Current mission: Linux character driver + upstream patchset
+- Building: STM32 bootloader (UART / XMODEM), kernel modules
+- Learning: Yocto BSPs, upstream kernel contribution process
+
+<p align="center">
+  <img src="./assets/toolkit.svg" alt="toolkit" width="840" />
+</p>
+
+---
+
+## Featured projects
+
+- **STM32 Bootloader** — field-updatable bootloader for STM32 (serial flashing)
+- **linux-kmod-example** — kernel module + userspace test harness
+- **buildroot-experiments** — tiny images for embedded testing
+- **Secure Node** — IoT / ESP32 experiments
+
+(See pinned repositories below)
+
+---
+
+## Open Source Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith0210&theme=tokyo-night" alt="activity graph" />
+  &nbsp;
+  <img src="./assets/divider.svg" alt="divider" />
+</p>
+
+---
+
+## Terminal — quick dev preview
+
+```bash
+$ whoami
+rohith
+
+$ uname -a
+# Linux (dev machine / CI container)
+
+$ ls
+STM32/  kernel/  drivers/  buildroot/  yocto/# Rohith Chidurala — Embedded Linux Engineer (rohith0210)
+
 ![](./assets/hero-terminal.svg)
 
 <p align="center">

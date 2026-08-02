@@ -1,31 +1,24 @@
-<!-- Simple dark hero banner (editable). Save as assets/hero.svg -->
-<svg xmlns="http://www.w3.org/2000/svg" width="980" height="200" viewBox="0 0 980 200" preserveAspectRatio="xMidYMid slice">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
   <defs>
     <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0" stop-color="#071026"/>
-      <stop offset="1" stop-color="#0f1724"/>
+      <stop offset="0%" stop-color="#020617" />
+      <stop offset="100%" stop-color="#071227" />
     </linearGradient>
-    <style>
-      .title { fill: #58A6FF; font-family: 'Fira Code', monospace; font-weight:700; font-size:36px; }
-      .subtitle { fill: #9AA8C6; font-family: 'Fira Code', monospace; font-size:18px; }
-      .tag { fill: #6EE7B7; font-family: 'Fira Code', monospace; font-size:13px; }
-    </style>
+    <radialGradient id="glow" cx="50%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#1f3bff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
   </defs>
-  <rect width="100%" height="100%" fill="url(#g)" rx="14"/>
-  <text x="40" y="70" class="title">ROHITH</text>
-  <text x="40" y="105" class="subtitle">Embedded Linux Engineer • Linux Kernel • STM32</text>
-
-  <g transform="translate(40,130)">
-    <text class="tag">C</text>
-    <text class="tag" x="40">C++</text>
-    <text class="tag" x="110">Buildroot</text>
-    <text class="tag" x="220">Yocto</text>
-    <text class="tag" x="330">Drivers</text>
+  <rect width="100%" height="100%" fill="url(#g)" rx="8" />
+  <rect x="40" y="30" width="1120" height="240" rx="12" fill="rgba(0,0,0,0.18)" />
+  <g>
+    <circle cx="180" cy="140" r="72" fill="url(#glow)" />
+    <text x="360" y="110" fill="#cfe8ff" font-family="Inter,Segoe UI,Roboto,Arial" font-size="28" font-weight="700">Rohith Chidurala</text>
+    <text x="360" y="145" fill="#9fbaf3" font-family="Fira Code,monospace" font-size="16">Embedded Linux Engineer — Kernel • Drivers • STM32</text>
+    <g transform="translate(360,170)">
+      <rect x="0" y="6" width="10" height="10" rx="2" fill="#58A6FF" />
+      <text x="18" y="14" fill="#99baf1" font-family="Fira Code,monospace" font-size="12">Buildroot • Yocto • Open Source</text>
+    </g>
   </g>
-
-  <!-- subtle animated pulse -->
-  <circle cx="900" cy="40" r="18" fill="#58A6FF">
-    <animate attributeName="r" values="16;22;16" dur="4s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="4s" repeatCount="indefinite" />
-  </circle>
 </svg>
