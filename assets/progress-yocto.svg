@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <rect width="1200" height="150" rx="20" fill="#0b1120"/>
+  <rect x="30" y="30" width="1140" height="90" rx="16" fill="#111827" stroke="#243b53"/>
+  <text x="56" y="72" fill="#f8fafc" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700">Yocto &amp; Open Source Growth</text>
+  <rect x="56" y="90" width="360" height="12" rx="6" fill="#1f2937"/>
+  <rect x="56" y="90" width="252" height="12" rx="6" fill="#f472b6"/>
+  <text x="56" y="122" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="18">Learning BSP layers, board support, and the habit of upstreaming good work</text>
+</svg>

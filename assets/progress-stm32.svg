@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+  <rect width="1200" height="150" rx="20" fill="#0b1120"/>
+  <rect x="30" y="30" width="1140" height="90" rx="16" fill="#111827" stroke="#243b53"/>
+  <text x="56" y="72" fill="#f8fafc" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700">STM32 &amp; Firmware Engineering</text>
+  <rect x="56" y="90" width="360" height="12" rx="6" fill="#1f2937"/>
+  <rect x="56" y="90" width="324" height="12" rx="6" fill="#34d399"/>
+  <text x="56" y="122" fill="#94a3b8" font-family="Segoe UI, sans-serif" font-size="18">Exploring bootloaders, hardware handoff, and practical firmware design</text>
+</svg>

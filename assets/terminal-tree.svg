@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="420" viewBox="0 0 700 420">
+  <rect width="700" height="420" rx="24" fill="#0b1120"/>
+  <rect x="24" y="24" width="652" height="372" rx="18" fill="#111827" stroke="#243b53"/>
+  <rect x="40" y="44" width="120" height="16" rx="8" fill="#1f2937"/>
+  <circle cx="64" cy="52" r="6" fill="#f43f5e"/>
+  <circle cx="84" cy="52" r="6" fill="#f59e0b"/>
+  <circle cx="104" cy="52" r="6" fill="#34d399"/>
+  <text x="60" y="118" fill="#f8fafc" font-family="Consolas, monospace" font-size="24">$ pwd</text>
+  <text x="60" y="152" fill="#38bdf8" font-family="Consolas, monospace" font-size="24">/home/rohith</text>
+  <text x="60" y="198" fill="#f8fafc" font-family="Consolas, monospace" font-size="24">$ ls</text>
+  <text x="60" y="232" fill="#34d399" font-family="Consolas, monospace" font-size="24">STM32/  Kernel/  Drivers/</text>
+  <text x="60" y="266" fill="#34d399" font-family="Consolas, monospace" font-size="24">Buildroot/  Yocto/  OpenSource/</text>
+  <text x="60" y="312" fill="#f8fafc" font-family="Consolas, monospace" font-size="24">$ cat goals.txt</text>
+  <text x="60" y="346" fill="#f59e0b" font-family="Consolas, monospace" font-size="24">Build reliable embedded systems</text>
+</svg>

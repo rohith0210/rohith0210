@@ -1,25 +1,38 @@
+<div align="center">
+  <img src="./assets/hero-terminal.svg" alt="Rohith Chidurala — Embedded Linux engineer building low-level systems" width="100%" />
+  <img src="./assets/divider.svg" alt="" width="100%" />
+</div>
+
 <p align="center">
-  <img src="./assets/hero.svg" alt="hero" width="880" />
+  <a href="https://github.com/rohith0210">
+    <img src="https://img.shields.io/badge/Follow-%40rohith0210-181717?logo=github&style=for-the-badge" alt="Follow on GitHub" />
+  </a>
+  <a href="https://rohith-portfolio-es.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-0EA5E9?logo=vercel&style=for-the-badge" alt="Visit portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohith-vinay-8276a33a2">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
+  </a>
 </p>
 
 <table width="100%" cellspacing="20">
   <tr>
     <td valign="top" width="55%">
 
-### About
+### About Me
 
-I build low-level software for embedded systems: kernel modules, device drivers, and firmware. My focus areas are STM32, Buildroot, Yocto, and upstream Linux kernel contributions.
+I build low-level software for embedded systems with a focus on Linux, kernel modules, device drivers, firmware, and reproducible build environments. My work spans STM32 bootloaders, character drivers, and embedded Linux stacks powered by Buildroot and Yocto.
 
-- Current: STM32 bootloader (UART / XMODEM) and Linux character driver
-- Interested in: Kernel internals, device trees, cross-build CI
-- Goal: upstream device driver contributions
+- Current mission: build reliable firmware and driver experiments for real hardware
+- Focus areas: kernel internals, device trees, cross-build CI, and upstream-friendly code
+- Goal: grow into a strong embedded Linux engineer and contribute meaningful open-source work
 
     </td>
     <td valign="top" width="45%">
 
 ### Terminal
 
-<img src="./assets/terminal.svg" alt="terminal" width="100%" />
+<img src="./assets/terminal-tree.svg" alt="Developer terminal preview" width="100%" />
 
     </td>
   </tr>
@@ -32,63 +45,93 @@ I build low-level software for embedded systems: kernel modules, device drivers,
 ### Engineering Dashboard
 
 <p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=rohith0210&show_icons=true&theme=tokyonight" alt="github-stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=rohith0210&show_icons=true&theme=tokyonight" alt="GitHub stats" />
   &nbsp;&nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith0210&layout=compact&theme=tokyonight" alt="top-langs" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith0210&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="./assets/toolkit.svg" alt="toolkit" width="840" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith0210&theme=tokyo-night" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" alt="divider" />
 </p>
 
-### Featured projects
+### Current Mission
+
+<p align="center">
+  <img src="./assets/progress-kernel.svg" alt="Kernel progress" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/progress-stm32.svg" alt="STM32 progress" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/progress-linux.svg" alt="Linux progress" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/progress-yocto.svg" alt="Yocto progress" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" />
+</p>
+
+### Featured Projects
 
 <table width="100%" cellspacing="12">
   <tr>
-    <td valign="top" width="33%">
-      <strong><a href="/rohith0210/STM32-Bootloader">STM32 Bootloader</a></strong>
-      <p>Field-updatable bootloader for STM32 with serial flashing and CRC checks.</p>
+    <td valign="top" width="25%">
+      <strong><a href="https://github.com/rohith0210?tab=repositories">STM32 Bootloader</a></strong>
+      <p>Bootloader work for STM32 with serial flashing and reliability-focused firmware updates.</p>
     </td>
-    <td valign="top" width="33%">
-      <strong><a href="/rohith0210/linux-kmod-example">linux-kmod-example</a></strong>
-      <p>Example kernel module + userspace test harness to demonstrate a character device.</p>
+    <td valign="top" width="25%">
+      <strong><a href="https://github.com/rohith0210?tab=repositories">linux-kmod-example</a></strong>
+      <p>Kernel module experiments and user-space harnesses for learning device-driver behavior.</p>
     </td>
-    <td valign="top" width="33%">
-      <strong><a href="/rohith0210/buildroot-experiments">buildroot-experiments</a></strong>
-      <p>Personal Buildroot configs and packages for tiny test images and CI.</p>
+    <td valign="top" width="25%">
+      <strong><a href="https://github.com/rohith0210?tab=repositories">buildroot-experiments</a></strong>
+      <p>Embedded Linux build experiments around minimal root filesystems and package integration.</p>
+    </td>
+    <td valign="top" width="25%">
+      <strong><a href="https://github.com/rohith0210?tab=repositories">yocto-playground</a></strong>
+      <p>Yocto layer and BSP exploration for integrating custom board support into embedded images.</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="./assets/divider.svg" alt="divider" />
-</p>
-
-### Open Source Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith0210&theme=tokyo-night" alt="activity graph" />
+  <img src="./assets/timeline.svg" alt="Roadmap timeline" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" alt="divider" />
 </p>
 
-### Quick terminal
+### Engineering Toolkit
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,stm32,arm,git,docker,qemu,gdb,openocd" alt="Tool and language stack" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" alt="divider" />
+</p>
+
+### Quick Terminal
 
 ```bash
 $ whoami
 rohith
 
 $ uname -a
-# Linux (dev / CI)
+Linux devbox 6.8.x #1 SMP PREEMPT_DYNAMIC
 
 $ ls
-STM32/  kernel/  drivers/  buildroot/  yocto/
+STM32/  Kernel/  Drivers/  Buildroot/  Yocto/  OpenSource/
 ```
 
 <p align="center">
@@ -97,7 +140,9 @@ STM32/  kernel/  drivers/  buildroot/  yocto/
 
 ### Connect
 
+- Portfolio: https://rohith-portfolio-es.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/rohith-vinay-8276a33a2
-- Email: (add contact email if you want it shown)
+- GitHub: https://github.com/rohith0210
+- Email: add your contact email here if you want it visible
 
-<p align="center">*Profile: Embedded Linux • Kernel • Drivers • STM32 • Buildroot • Yocto*</p>
+<p align="center">Embedded Linux • Kernel • Device Drivers • STM32 • Buildroot • Yocto • Open Source</p>
