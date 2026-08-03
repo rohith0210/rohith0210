@@ -10,7 +10,7 @@
   <a href="https://rohith-portfolio-es.vercel.app/">
     <img src="https://img.shields.io/badge/Visit-Portfolio-0EA5E9?logo=vercel&style=for-the-badge" alt="Visit portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/rohith-vinay-8276a33a2">
+  <a href="https://www.linkedin.com/in/rohith-chidurala-b38b26287/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
   </a>
 </p>
