@@ -1,148 +1,37 @@
-<div align="center">
-  <img src="./assets/hero-terminal.svg" alt="Rohith Chidurala — Embedded Linux engineer building low-level systems" width="100%" />
-  <img src="./assets/divider.svg" alt="" width="100%" />
-</div>
+<h1 align="center">Hi 👋, I'm Rohith Chidurala</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="center">
-  <a href="https://github.com/rohith0210">
-    <img src="https://img.shields.io/badge/Follow-%40rohith0210-181717?logo=github&style=for-the-badge" alt="Follow on GitHub" />
-  </a>
-  <a href="https://rohith-portfolio-es.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-0EA5E9?logo=vercel&style=for-the-badge" alt="Visit portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/rohith-chidurala-b38b26287/">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" alt="Connect on LinkedIn" />
-  </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith0210&label=Profile%20views&color=0e75b6&style=flat" alt="rohith0210" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohith0210" alt="rohith0210" /></a> </p>
+
+- 🔭 I’m currently working on [Firmware-Insight-Studio](https://github.com/rohith0210/Firmware-Insight-Studio)
+
+- 🌱 I’m currently learning **Embedded Systems(STM32), IoT(Cloud Services), Linux**
+
+- 👯 I’m looking to collaborate on [Firmware-Insight-Studio](https://github.com/rohith0210/Firmware-Insight-Studio)
+
+- 👨‍💻 All of my projects are available at [https://rohith-portfolio-es.vercel.app/](https://rohith-portfolio-es.vercel.app/)
+
+- 💬 Ask me about **Embedded Systems,IoT,Linux**
+
+- 📫 How to reach me **rohithchidurala589@gmail.com**
+
+- 📄 Know about my experiences [https://rohith-portfolio-es.vercel.app/resume](https://rohith-portfolio-es.vercel.app/resume)
+
+- ⚡ Fun fact **I think am focused**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rohith-chidurala-b38b26287/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohith-chidurala-b38b26287/" height="30" width="40" /></a>
+<a href="https://instagram.com/rohith__0210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohith__0210" height="30" width="40" /></a>
 </p>
 
-<table width="100%" cellspacing="20">
-  <tr>
-    <td valign="top" width="55%">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
-### About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohith0210&show_icons=true&locale=en&layout=compact" alt="rohith0210" /></p>
 
-I build low-level software for embedded systems with a focus on Linux, kernel modules, device drivers, firmware, and reproducible build environments. My work spans STM32 bootloaders, character drivers, and embedded Linux stacks powered by Buildroot and Yocto.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohith0210&show_icons=true&locale=en" alt="rohith0210" /></p>
 
-- Current mission: build reliable firmware and driver experiments for real hardware
-- Focus areas: kernel internals, device trees, cross-build CI, and upstream-friendly code
-- Goal: grow into a strong embedded Linux engineer and contribute meaningful open-source work
-
-    </td>
-    <td valign="top" width="45%">
-
-### Terminal
-
-<img src="./assets/terminal-tree.svg" alt="Developer terminal preview" width="100%" />
-
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="divider" />
-</p>
-
-### Engineering Dashboard
-
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=rohith0210&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohith0210&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohith0210&theme=tokyo-night" alt="Contribution activity graph" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="divider" />
-</p>
-
-### Current Mission
-
-<p align="center">
-  <img src="./assets/progress-kernel.svg" alt="Kernel progress" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/progress-stm32.svg" alt="STM32 progress" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/progress-linux.svg" alt="Linux progress" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/progress-yocto.svg" alt="Yocto progress" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="divider" />
-</p>
-
-### Featured Projects
-
-<table width="100%" cellspacing="12">
-  <tr>
-    <td valign="top" width="25%">
-      <strong><a href="https://github.com/rohith0210?tab=repositories">STM32 Bootloader</a></strong>
-      <p>Bootloader work for STM32 with serial flashing and reliability-focused firmware updates.</p>
-    </td>
-    <td valign="top" width="25%">
-      <strong><a href="https://github.com/rohith0210?tab=repositories">linux-kmod-example</a></strong>
-      <p>Kernel module experiments and user-space harnesses for learning device-driver behavior.</p>
-    </td>
-    <td valign="top" width="25%">
-      <strong><a href="https://github.com/rohith0210?tab=repositories">buildroot-experiments</a></strong>
-      <p>Embedded Linux build experiments around minimal root filesystems and package integration.</p>
-    </td>
-    <td valign="top" width="25%">
-      <strong><a href="https://github.com/rohith0210?tab=repositories">yocto-playground</a></strong>
-      <p>Yocto layer and BSP exploration for integrating custom board support into embedded images.</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="./assets/timeline.svg" alt="Roadmap timeline" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="divider" />
-</p>
-
-### Engineering Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,linux,stm32,arm,git,docker,qemu,gdb,openocd" alt="Tool and language stack" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="divider" />
-</p>
-
-### Quick Terminal
-
-```bash
-$ whoami
-rohith
-
-$ uname -a
-Linux devbox 6.8.x #1 SMP PREEMPT_DYNAMIC
-
-$ ls
-STM32/  Kernel/  Drivers/  Buildroot/  Yocto/  OpenSource/
-```
-
-<p align="center">
-  <img src="./assets/divider.svg" alt="divider" />
-</p>
-
-### Connect
-
-- Portfolio: https://rohith-portfolio-es.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/rohith-vinay-8276a33a2
-- GitHub: https://github.com/rohith0210
-- Email: add your contact email here if you want it visible
-
-<p align="center">Embedded Linux • Kernel • Device Drivers • STM32 • Buildroot • Yocto • Open Source</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohith0210&" alt="rohith0210" /></p>
